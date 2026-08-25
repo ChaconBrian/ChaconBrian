@@ -15,7 +15,7 @@ I care about building software that is fast, maintainable, accessible and scalab
 
 <p>
   <img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" height="48" alt="Java" />
-  <img src="./assets/liferay.svg" width="48" height="48" alt="Liferay DXP" />
+  <img src="./assets/liferay.svg" width="44" height="44" alt="Liferay DXP" />
   <img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" alt="React" />
   <img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48" alt="JavaScript" />
 </p>
